@@ -1,1 +1,1 @@
-alien theme - the second added to learn about git
+alien theme - gitthe second added to learn about git
